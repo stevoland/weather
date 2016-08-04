@@ -1,0 +1,12 @@
+@import "~weather-icons/css/weather-icons.css";
+
+.App {
+  margin: 20px;
+}
+
+.App__title {
+  margin: 0;
+  font-size: 80px;
+  font-weight: 900;
+  line-height: 1;
+}
